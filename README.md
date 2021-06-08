@@ -10,5 +10,3 @@ this information as a column in the same csv file. The attached ‘ExampleRankin
 of the desired output format using the real 2018-2019 ACC standings (and conference win percentage as
 the rating). Please share any code used to develop your rankings, as the purpose of this open-ended
 question is to see your thought process through a realistic sports modeling problem.
-
-The final rankings are in the .csv file!
